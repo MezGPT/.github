@@ -2,14 +2,14 @@
 
 <p align="center">
   <a href="http://mezgpt.ai/" target="blank">
-  <img src="https://res.cloudinary.com/dewvs0nf9/image/upload/v1700056882/WhatsApp_Image_2023-11-12_at_1.30.55_PM_u1xna4.jpg" width="200" alt="mezgpt Logo" />
+  <img src="https://res.cloudinary.com/dewvs0nf9/image/upload/v1701264650/Twitter_DP_smrpyj.png" width="200" alt="mezgpt Logo" />
   </a>
 </p>
 
-[circleci-image]: [https://res.cloudinary.com/dewvs0nf9/image/upload/v1651562093/Flipeet/frame_23_opunzp.png](https://res.cloudinary.com/dewvs0nf9/image/upload/v1700056882/WhatsApp_Image_2023-11-12_at_1.30.55_PM_u1xna4.jpg)
+[circleci-image]: [https://res.cloudinary.com/dewvs0nf9/image/upload/v1701264650/Twitter_DP_smrpyj.png](https://res.cloudinary.com/dewvs0nf9/image/upload/v1701264650/Twitter_DP_smrpyj.png)
 [circleci-url]: https://mezgpt.com
 
-  <p align="center">This is the official <a href="http://mezgpt.ai" target="_blank">mezgpt.com</a> 
+  <p align="center">This is the official <a href="http://mezgpt.com" target="_blank">mezgpt.com</a> 
 github organisation.</p>
     <p align="center">
 </p>
